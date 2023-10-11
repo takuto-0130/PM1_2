@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello C World!\n";
+    std::cout << "LC1A_27_ヤマグチ_タクト"
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
