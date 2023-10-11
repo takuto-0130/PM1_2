@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello C World!\n";
     std::cout << "LC1A_27_ヤマグチ_タクト";
+    std::cout << "2023/10/11";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
